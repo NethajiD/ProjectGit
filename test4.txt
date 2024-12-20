@@ -1,1 +1,1 @@
-how to diff
+Difference between the branches inside the git
